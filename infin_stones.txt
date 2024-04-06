@@ -1,0 +1,6 @@
+power,5
+Time,3
+Reality,7
+Soul,2
+Mind,4
+Space,1
